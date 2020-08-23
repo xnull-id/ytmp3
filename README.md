@@ -1,13 +1,13 @@
 # ytmp3
 Script Download Musik Youtube Menggunakan Python
 
-# How to use?
+How to use?
 ```
-sudo apt-get install ffmpeg
-pip install youtube-dl
-git clone https://github.com/xnull-id/ytmp3
-cd ytmp3
-python youtube.py <url yt>
+$ sudo apt-get install ffmpeg
+$ pip install youtube-dl
+$ git clone https://github.com/xnull-id/ytmp3
+$ cd ytmp3
+$ python youtube.py <url yt>
 ```
 
 # Review
